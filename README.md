@@ -1,7 +1,16 @@
 <!doctype html>
 
-<html>
-<background="https://github.com/TraininWheelz/TraininWheelz/blob/master/ORC.png"/>
-<head>TraininWheelz</head>
+    <html>
+    
+        <head>
+        
+           <style>
+           
+           </style>
+           
+        </head>  
+        
+        <body style = "background; url(https://github.com/TraininWheelz/TraininWheelz/blob/master/ORC.png)">
+        </body>
 Guild Website
-</html>
+    </html>
